@@ -1,0 +1,2 @@
+Esse projeto é um exercicio do curso de Java do Nélio Alves, na udemy, na seção 14 Herança e Polimorfismo. É composto por 3 classes, Principal (Enter point), Employee e Outsourced Employee. O objetivo foi criar um programa que contabilizada os rendimentos recebidos por funcionários contratados internos e funcionários contratados externos.
+O programa principal permite a adição de funcionários, independente do tipo, e mostra ao final os rendimentos de cada um. 
